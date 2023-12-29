@@ -2,7 +2,7 @@
 
 // In this program, We want to Display Numbers Randomly .
 
-// The Main Code OF The Dice Pouring Project . .INO .
+// The Main Code OF The Dice Pouring Project . . INO . .
 
 
 
